@@ -1,0 +1,63 @@
+.navbar-fixed-bottom .new-tbl-cell {
+    display: block;
+    width:25%;
+    float:left;
+    text-align: center;
+    color:#000;
+    padding-top:8px;
+}
+.navbar-fixed-bottom .new-tbl-cell span {
+    position: relative;
+    font-size: 20px;
+    padding-bottom:3px;
+}
+.navbar-fixed-bottom .new-tbl-cell span em {
+    position: absolute;
+    top:-5px;
+    right:-8px;
+    display: block;
+    width:15px;
+    height:15px;
+    background: #f00;
+    border-radius: 50%;
+    font-style: normal;
+    font-size:10px;
+    font-weight: bold;
+}
+.navbar-fixed-bottom .new-tbl-cell p {
+    font-size: 12px;
+    margin-bottom:5px;
+}
+.navbar-fixed-bottom {
+    background: #F5EFE9;
+}
+.navbar-fixed-bottom .new-tbl-cell {
+    display: block;
+    width:25%;
+    float:left;
+    text-align: center;
+    color:#000;
+    padding-top:8px;
+}
+.navbar-fixed-bottom .new-tbl-cell span {
+    position: relative;
+    font-size: 20px;
+    padding-bottom:3px;
+}
+.navbar-fixed-bottom .new-tbl-cell span em {
+    position: absolute;
+    top:-5px;
+    right:-8px;
+    display: block;
+    width:15px;
+    height:15px;
+    background: #f00;
+    border-radius: 50%;
+    font-style: normal;
+    font-size:10px;
+    font-weight: bold;
+}
+.navbar-fixed-bottom .new-tbl-cell p {
+    font-size: 12px;
+    margin-bottom:5px;
+}
